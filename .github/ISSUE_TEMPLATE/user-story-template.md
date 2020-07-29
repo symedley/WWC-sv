@@ -1,6 +1,6 @@
 ---
 name: User Story Template
-about: Template for basic user story
+about: Use this template for creating a user story
 title: "[User Story Name]"
 labels: '[Priority],[Sprint]'
 assignees: ''
