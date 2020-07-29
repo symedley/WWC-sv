@@ -4,6 +4,8 @@ about: Template for basic user story
 title: "[User Story Name]"
 labels: '[Priority],[Sprint]'
 assignees: ''
+images [GitHub Logo](/images/logo.png): '![Alt Text](url)'
+links [GitHub](http://github.com): '[text](url)'
 
 ---
 
@@ -32,8 +34,6 @@ assignees: ''
 
 
 #### UX Prototypes
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+image or link
 
-http://github.com - automatic!
 [GitHub](http://github.com)
