@@ -23,7 +23,7 @@ assignees: ''
 #### Parent Epic
 
 
-#### Breadcrumb
+#### Breadcrumbs
 
 
 #### Acceptance Criteria
@@ -32,3 +32,8 @@ assignees: ''
 
 
 #### UX Prototypes
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
