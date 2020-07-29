@@ -2,7 +2,7 @@
 name: User Story Template
 about: Template for basic user story
 title: "[User Story Name]"
-labels: ''
+labels: '[Priority],[Sprint]'
 assignees: ''
 
 ---
@@ -13,8 +13,6 @@ assignees: ''
 #### Description (User Story)
 *As a I want so that I can*
 
-#### Priority
-<labels: low | medium | high>
 
 #### Affects Version
 
@@ -23,6 +21,9 @@ assignees: ''
 
 
 #### Parent Epic
+
+
+#### Breadcrumb
 
 
 #### Acceptance Criteria
