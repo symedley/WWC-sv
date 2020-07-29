@@ -7,29 +7,29 @@ assignees: ''
 
 ---
 
-##Story ID
+#### Story ID
 
-##Description (User Story)
+#### Description (User Story)
 *As a I want so that I can*
 
-##Priority
+#### Priority
 <labels: low | medium | high>
 
-##Affects Version
-?
+#### Affects Version
 
-##Story Points
-?
 
-##Sprint
+#### Story Points
+
+
+#### Sprint
 <labels>
 
-##Parent Epic
+#### Parent Epic
 
 
-##Acceptance Criteria
+#### Acceptance Criteria
 * Item 1
 * Item 2
 
 
-## UX Prototypes
+#### UX Prototypes
