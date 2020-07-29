@@ -36,4 +36,3 @@ links [GitHub](http://github.com): '[text](url)'
 #### UX Prototypes
 image or link
 
-[GitHub](http://github.com)
