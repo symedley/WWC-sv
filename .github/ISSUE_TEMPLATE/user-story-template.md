@@ -9,6 +9,7 @@ assignees: ''
 
 #### Story ID
 
+
 #### Description (User Story)
 *As a I want so that I can*
 
@@ -20,9 +21,6 @@ assignees: ''
 
 #### Story Points
 
-
-#### Sprint
-<labels>
 
 #### Parent Epic
 
