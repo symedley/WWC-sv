@@ -9,6 +9,10 @@ assignees: ''
 
 #### Epic ID
 
-#### Description
+#### Epic Description
+
+#### Value Addition to Product (What is new that this epic is introducing?)
+
+#### Definition of Done (What concludes end of this epic - Exit Criteria)
 
 #### User Stories
