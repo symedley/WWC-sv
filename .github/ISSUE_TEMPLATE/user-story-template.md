@@ -2,10 +2,8 @@
 name: User Story Template
 about: Use this template for creating a user story
 title: "[User Story Name]"
-labels: '[Priority],[Sprint]'
+labels: ''
 assignees: ''
-images [GitHub Logo](/images/logo.png): '![Alt Text](url)'
-links [GitHub](http://github.com): '[text](url)'
 
 ---
 
@@ -34,5 +32,3 @@ links [GitHub](http://github.com): '[text](url)'
 
 
 #### UX Prototypes
-
-
