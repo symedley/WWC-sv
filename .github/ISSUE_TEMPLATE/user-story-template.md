@@ -32,9 +32,12 @@ assignees: ''
 
 
 #### UX Prototypes
-* Sketch the Application's Layout
-* User Flow
-* Low Fidelity Prototype
-* Usability testing
-*Iteration
-*High fidelity prototype
+- [ ] Sketch the application’s layout
+
+- [ ] User flow
+
+- [ ] Low Fidelity Prototype
+
+- [ ] Usability Test
+
+- [ ] High Fidelity Prototype
