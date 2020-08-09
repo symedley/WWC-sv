@@ -38,7 +38,7 @@ assignees: ''
 
 
 #### UX Prototypes
-- [ ] Sketch the application’s layout
+- [ ] Layout Sketch
 
 - [ ] User flow
 
