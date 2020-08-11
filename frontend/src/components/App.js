@@ -1,6 +1,5 @@
 import React from 'react';
-import logo from './wip.png';
-import './App.css';
+import logo from '../images/wip.png';
 
 function App() {
   return (
