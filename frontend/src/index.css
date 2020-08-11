@@ -64,3 +64,10 @@ img{
     transform: rotateY(360deg);
   }
 }
+
+/* ---------------Navigation----------------- */
+
+button{
+  background: transparent;
+  border: none;
+}

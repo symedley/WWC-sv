@@ -1,9 +1,11 @@
 import React from 'react';
 import logo from '../images/wip.png';
+import Navigation from './Navigation';
 
 function App() {
   return (
     <div className="App">
+      <Navigation />
       <header className="App-header">
         <div className="App-logo">
           <div className="App-logo-front">
