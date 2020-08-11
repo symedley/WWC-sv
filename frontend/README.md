@@ -5,9 +5,11 @@
 
     To open the project in the browser, in the frontend directory, run:
 
-    ### `npm start`  
+    ### `npm install`
+    to install all the dependencies and then run:
 
-- Runs the app in the development mode.
+    ### `npm start`  
+    to run the app 
 
 -  Open [http://localhost:3000](http://localhost:3000) to view it in the browser.  
   It should look like this:  
