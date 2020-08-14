@@ -47,3 +47,5 @@ assignees: ''
 - [ ] Usability Test
 
 - [ ] High Fidelity Prototype
+
+- [ ] Design Handoff
