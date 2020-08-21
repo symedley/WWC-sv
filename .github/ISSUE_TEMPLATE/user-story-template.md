@@ -37,7 +37,8 @@ assignees: ''
 * Item 2
 
 
-#### UX Prototypes
+#### UX Prototypes. UX to please provide links to prototypes and attach screen shots to the issue.
+
 - [ ] Layout Sketch
 
 - [ ] User flow
